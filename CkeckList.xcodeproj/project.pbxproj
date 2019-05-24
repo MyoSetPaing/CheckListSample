@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		2A57FD02229690FD00E71D35 /* AddItemTableViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2A57FD01229690FD00E71D35 /* AddItemTableViewController.swift */; };
 		2AC440F42294EF13007959DD /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2AC440F32294EF13007959DD /* AppDelegate.swift */; };
 		2AC440F62294EF13007959DD /* ChecklistViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2AC440F52294EF13007959DD /* ChecklistViewController.swift */; };
 		2AC440F92294EF13007959DD /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 2AC440F72294EF13007959DD /* Main.storyboard */; };
@@ -17,6 +18,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		2A57FD01229690FD00E71D35 /* AddItemTableViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AddItemTableViewController.swift; sourceTree = "<group>"; };
 		2AC440F02294EF13007959DD /* CkeckList.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = CkeckList.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		2AC440F32294EF13007959DD /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		2AC440F52294EF13007959DD /* ChecklistViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ChecklistViewController.swift; sourceTree = "<group>"; };
@@ -66,6 +68,7 @@
 				2AC440FF2294EF14007959DD /* Info.plist */,
 				2AC4410722952EFD007959DD /* ChecklistItem.swift */,
 				2AC44109229540D1007959DD /* Todolist.swift */,
+				2A57FD01229690FD00E71D35 /* AddItemTableViewController.swift */,
 			);
 			path = CkeckList;
 			sourceTree = "<group>";
@@ -142,6 +145,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				2AC440F62294EF13007959DD /* ChecklistViewController.swift in Sources */,
+				2A57FD02229690FD00E71D35 /* AddItemTableViewController.swift in Sources */,
 				2AC4410822952EFD007959DD /* ChecklistItem.swift in Sources */,
 				2AC440F42294EF13007959DD /* AppDelegate.swift in Sources */,
 				2AC4410A229540D1007959DD /* Todolist.swift in Sources */,
